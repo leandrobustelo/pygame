@@ -1,0 +1,7 @@
+{
+"sound_shot":"./src/sounds/shot.mp3",
+"sound_ataque":"./src/sounds/sound_atack.mp3",
+"game_over":"./src/sounds/game_over.mp3",
+"son_P":"./src/sounds/sound_P.mp3",
+"son_game":"./src/sounds/siren.mp3"
+}
